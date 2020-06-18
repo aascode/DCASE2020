@@ -1,7 +1,7 @@
 # DCASE2020
 This repository is the official implementations of our DCASE 2020 task 1a with technical report:
  
- Soonshin Seo, Changmin Kim and Ji-Hwan Kim: "MULTIPLE CHANNEL FEATURE USING INTER-CLASS AND INTER-DEVICE STANDARD DEVIATION FOR ACOUSTIC SCENE CLASSIFICATION", submitted to task 1a of the 2020 DCASE Challenge
+ Soonshin Seo, Changmin Kim and Ji-Hwan Kim: "MULTI-CHANNEL FEATURE USING INTER-CLASS AND INTER-DEVICE STANDARD DEVIATIONS FOR ACOUSTIC SCENE CLASSIFICATION", submitted to task 1a of the 2020 DCASE Challenge
   
 ## Training
  1. Download the data form links at: http://dcase.community/challenge2020/task-acoustic-scene-classification#external-data-resources
